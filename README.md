@@ -31,7 +31,7 @@ Target users: Investors, finance students, and analysts who need to understand p
 - No extra libraries are required beyond pandas and tkinter.
 
 6. Product Link
-GitHub Repository:
+GitHub Repository: https://github.com/warry-student/Financial-analysis-of-Yili-Group-and-Guangming-Dairy/tree/main
 
 7. Limitations & Next Steps
 - Limitations: Only annual data
